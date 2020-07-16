@@ -1,11 +1,16 @@
 _repo: Fritzchen-Die-Geschichte-einer-Einsamen_62645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62645-h/images/cover.jpg
 creator:
   author:
     agent_name: Diers, Marie
     gutenberg_agent_id: '52053'
     url: http://www.gutenberg.org/2009/agents/52053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62645#Fritzchen-Die-Geschichte-einer-Einsamen
 gutenberg_issued: '2020-07-14'
 gutenberg_type: Text
 identifiers:
